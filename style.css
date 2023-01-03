@@ -8,17 +8,17 @@ html,body{
     color: #666;
 }
 .pimg1{
-    background-image: url(/imgpanda2.webp);
+    background-image: url(./imgpanda2.webp);
     min-height: 100%;
 }
 .pimg2{
  
-    background-image: url(/imgp1.jpg);
+    background-image: url(./imgp1.jpg);
     min-height: 400px;
 }
 .pimg3{
     
-    background-image: url(/img33.webp);
+    background-image: url(./img33.webp);
     min-height: 400px;
 
 }
